@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# material de trabalho, não faz parte do repositório publicado
+CHECKLIST_PUBLICACAO.md
